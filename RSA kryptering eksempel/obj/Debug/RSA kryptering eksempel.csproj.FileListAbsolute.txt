@@ -1,0 +1,10 @@
+C:\Users\Markus\source\repos\RSA kryptering eksempel\RSA kryptering eksempel\bin\Debug\RSA kryptering eksempel.exe.config
+C:\Users\Markus\source\repos\RSA kryptering eksempel\RSA kryptering eksempel\bin\Debug\RSA kryptering eksempel.exe
+C:\Users\Markus\source\repos\RSA kryptering eksempel\RSA kryptering eksempel\bin\Debug\RSA kryptering eksempel.pdb
+C:\Users\Markus\source\repos\RSA kryptering eksempel\RSA kryptering eksempel\obj\Debug\RSA kryptering eksempel.csprojResolveAssemblyReference.cache
+C:\Users\Markus\source\repos\RSA kryptering eksempel\RSA kryptering eksempel\obj\Debug\RSA_kryptering_eksempel.Form1.resources
+C:\Users\Markus\source\repos\RSA kryptering eksempel\RSA kryptering eksempel\obj\Debug\RSA_kryptering_eksempel.Properties.Resources.resources
+C:\Users\Markus\source\repos\RSA kryptering eksempel\RSA kryptering eksempel\obj\Debug\RSA kryptering eksempel.csproj.GenerateResource.Cache
+C:\Users\Markus\source\repos\RSA kryptering eksempel\RSA kryptering eksempel\obj\Debug\RSA kryptering eksempel.csproj.CoreCompileInputs.cache
+C:\Users\Markus\source\repos\RSA kryptering eksempel\RSA kryptering eksempel\obj\Debug\RSA kryptering eksempel.exe
+C:\Users\Markus\source\repos\RSA kryptering eksempel\RSA kryptering eksempel\obj\Debug\RSA kryptering eksempel.pdb
